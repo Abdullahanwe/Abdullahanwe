@@ -66,6 +66,12 @@
 
 <br clear="both">
 
+<h2 align="left">📌 Social :-</h2>
+
+###
+
+<br clear="both">
+
 <div align="left">
   <a href="https://www.linkedin.com/in/abdullah-anwer-01807925a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="58" height="31" alt="linkedin logo"  />
@@ -73,7 +79,6 @@
   <a href="https://www.youtube.com/@abdullahanwer-6328" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="58" height="31" alt="youtube logo"  />
   </a>
-
 </div>
 
 ###
