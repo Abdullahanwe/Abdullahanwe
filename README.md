@@ -73,9 +73,7 @@
   <a href="https://www.youtube.com/@abdullahanwer-6328" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="58" height="31" alt="youtube logo"  />
   </a>
-  <a href="anwerabdullah34@gmil.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="58" height="31" alt="gmail logo"  />
-  </a>
+
 </div>
 
 ###
