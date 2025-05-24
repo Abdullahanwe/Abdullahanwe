@@ -5,15 +5,22 @@
 ###
 
 
-<div align="left" style="display: flex; gap: 10px; align-items: center;">
-  <h1 style="margin-right: 20px;">My name is Abdullah Anwer 😊</h1> 
-  <a href="https://www.linkedin.com/in/abdullah-anwer-01807925a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="58" height="31" alt="linkedin logo" />
-  </a>
-  <a href="https://www.youtube.com/@abdullahanwer-6328" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="58" height="31" alt="youtube logo" />
-  </a>
-</div>
+<table>
+  <tr>
+    <td><h1>My name is Abdullah Anwer 😊</h1></td>
+    <td>
+      <a href="https://www.linkedin.com/in/abdullah-anwer-01807925a" target="_blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="58" height="31" alt="linkedin logo" />
+      </a>
+    </td>
+    <td>
+      <a href="https://www.youtube.com/@abdullahanwer-6328" target="_blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="58" height="31" alt="youtube logo" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 
 ###
