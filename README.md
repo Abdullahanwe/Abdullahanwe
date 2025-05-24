@@ -9,7 +9,7 @@
 ###
 
 <h2 align="left">💫 About me :-</h2>
-https://icons8.com/icon/13930/linkedin
+
 ###
 
 <h2 align="left">📌 Front end developer react.js/next.js</h2>
